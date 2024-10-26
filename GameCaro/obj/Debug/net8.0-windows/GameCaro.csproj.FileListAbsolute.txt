@@ -1,0 +1,17 @@
+D:\GIuDe_WF\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.exe
+D:\GIuDe_WF\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.deps.json
+D:\GIuDe_WF\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.runtimeconfig.json
+D:\GIuDe_WF\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.dll
+D:\GIuDe_WF\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.pdb
+D:\GIuDe_WF\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Form1.resources
+D:\GIuDe_WF\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Properties.Resources.resources
+D:\GIuDe_WF\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.GenerateResource.cache
+D:\GIuDe_WF\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIuDe_WF\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfoInputs.cache
+D:\GIuDe_WF\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfo.cs
+D:\GIuDe_WF\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.CoreCompileInputs.cache
+D:\GIuDe_WF\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.dll
+D:\GIuDe_WF\GameCaro\GameCaro\obj\Debug\net8.0-windows\refint\GameCaro.dll
+D:\GIuDe_WF\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.pdb
+D:\GIuDe_WF\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.genruntimeconfig.cache
+D:\GIuDe_WF\GameCaro\GameCaro\obj\Debug\net8.0-windows\ref\GameCaro.dll
